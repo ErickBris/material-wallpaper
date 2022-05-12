@@ -1,0 +1,12 @@
+AndroidProjects - Android Code for Android Studio and Eclipse
+Documentation - Full Document With Screenshot for Help Guide Installation and configuration
+Php Code Admin - Php Server Code
+
+Change Log :
+
+Material Wallpaper v1.2.0
+
+- Bulk Image Upload Now Available
+- Eclipse Project Version Now Available
+- Easy Enable or Disable AdMob
+- Placing AdMob according new Google AdMob Policy Recommendation

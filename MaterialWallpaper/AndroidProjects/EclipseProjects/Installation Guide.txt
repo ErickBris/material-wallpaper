@@ -1,0 +1,30 @@
+Import Eclipse Projects
+
+1. Open Eclipse > Import > Android > "Existing Android Code into Worksplace" > Next
+
+2. Root Directory > Click Browse button & browse the project folder
+
+3. Select All projects in folder EclipseProjects :
+    - android-support-v7-appcompat
+    - google-play-service_lib
+    - MaterialWallpaper
+    -  
+4. Then go to 'Project' in menubar, select > Clean.. > Clean All Projects > Ok
+
+5. Wait for few minutes until all errors are gone. 
+   Ignore any warning appears in 'Problems' tab.
+
+Add Library
+
+1. Sometimes, if you get error in your main project.
+
+2. Right Click MaterialWallpaper > Properties > Android
+
+3. Make sure that two libraries below :
+    - android-support-v7-appcompat
+    - google-play-service_lib 
+   
+   has been adden as library in your project. the indicator in green ceck color.
+
+For complete next configuration, you can read in Documentation
+Step configuration similiar like in Android Studio
